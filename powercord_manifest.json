@@ -1,0 +1,8 @@
+{
+  "name": "Walter Theme",
+  "description": "A Theme Made By Walter",
+  "version": "1.0.0",
+  "author": "God Walter",
+  "theme": "Walter.theme.css",
+  "license": "MIT"
+}
